@@ -1,0 +1,178 @@
+
+.buttons{
+    height : 25px;
+    width : 60px;
+    background : #30c4c8;
+    
+    margin-right: 1px;
+    color : white;
+    padding : 12px;
+    text-align: center;
+    float : left;
+
+}
+
+.buttons:hover
+{
+
+background : #a3e0e2;
+
+}
+
+
+
+
+.styleButton{
+   height: 445px;
+    width: 996px;
+    margin-top: 10px;
+    
+
+}
+
+.apartmentTile{
+    height: 220px;
+    width: 248px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    background: url(../images/buttons/button1.png);
+    float:left;
+
+}
+
+.apartmentTile:hover{
+   
+    background: url(../images/userclass/button1.png);
+
+
+}
+
+
+.shopTile{
+    height: 220px;
+    width: 248px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    background: url(../images/buttons/button2.png);
+    float:left;
+
+}
+
+.shopTile:hover{
+   
+    background: url(../images/buttons/button2.png);
+
+
+}
+
+
+.officespaceTile{
+    height: 220px;
+    width: 248px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    background: url(../images/buttons/button3.png);
+    float:left;
+
+}
+
+.officespaceTile:hover{
+   
+    background: url(../images/buttons/button3.png);
+
+
+}
+
+.communitycenterTile{
+    height: 220px;
+    width: 248px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    background: url(../images/buttons/button4.png);
+    float:left;
+
+}
+
+.communitycenterTile:hover{
+   
+    background: url(../images/buttons/button4.png);
+
+
+}
+
+
+.subletTile{
+    height: 220px;
+    width: 248px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    background: url(../images/buttons/button5.png);
+    float:left;
+
+}
+
+.subletTile:hover{
+   
+    background: url(../images/buttons/button5.png);
+
+
+}
+
+.garageTile{
+    height: 220px;
+    width: 248px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    background: url(../images/buttons/button6.png);
+    float:left;
+
+}
+
+.garageTile:hover{
+   
+    background: url(../images/buttons/button6.png);
+
+
+}
+
+.vehicleTile{
+    height: 220px;
+    width: 248px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    background: url(../images/buttons/button7.png);
+    float:left;
+
+}
+
+.vehicleTile:hover{
+   
+    background: url(../images/buttons/button7.png);
+
+
+}
+
+.userregTile{
+    height: 220px;
+    width: 248px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    background: url(../images/buttons/button8.png);
+    float:left;
+
+}
+
+.userregTile:hover{
+   
+    background: url(../images/buttons/button8.png);
+
+
+}
+
+
+
+
+
+
+
+    
